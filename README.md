@@ -9,7 +9,7 @@
 
 MindSpider是一个基于Agent技术的智能舆情爬虫系统，通过AI自动识别热点话题，并在多个社交媒体平台进行精准的内容爬取。系统采用模块化设计，能够实现从话题发现到内容收集的全自动化流程。
 
-项目参考知名爬虫MediaCrawler：https://github.com/NanmiCoder/MediaCrawler，在其基础上进行改进，实现全自动AI爬取。
+项目参考知名爬虫MediaCrawler，在其基础上进行改进，实现全自动AI爬取：https://github.com/NanmiCoder/MediaCrawler
 
 两步走爬取：
 
