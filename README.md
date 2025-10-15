@@ -1,3 +1,10 @@
+> [!warning]
+> 好像最近项目中用来请求每日热点新闻的api接口被ban了，可以自己部署一下newsnow，然后替换掉这个URL即可，最近一个月我也会commit一版更通用的解决方案。
+> ```python
+> #新闻API基础URL
+> BASE URL = "https://newsnow.busiyi.world"
+> ```
+
 # MindSpider - 专为舆情分析设计的AI爬虫
 
 <img src="https://github.com/666ghj/MindSpider/blob/main/logo.png?raw=true" style="width: 25%;" alt="MindSpider Logo"/>
